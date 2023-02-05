@@ -12,3 +12,12 @@
         - normal
 ### pages
 - github pages 描画用
+
+# メモ
+## ローカル環境
+### node,npm,vuecliのバージョンについて
+- nodeバージョンはnvmで管理している
+- npmはnvmでnodeを入れたときに勝手に入ってきた
+- vuecliはnodeを入れたタイミングでグローバルインストールした
+- nodeバージョンを変えたとき、vuecliの挙動はどうなってしまうのか。面倒だし怖くてやってない
+    - 当面はnode 18.14.0, vue/cli 5.0.8, npm 9.3.1 で維持
