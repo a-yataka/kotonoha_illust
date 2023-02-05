@@ -10,8 +10,13 @@
     - pair
         - yuri
         - normal
-### pages
-- github pages 描画用
+### docs
+- github pagesで公開するディレクトリ
+- vue_gallery側で生成されたファイルを置く
+
+### vue_gallery
+- vueプロジェクト
+
 
 # メモ
 ## ローカル環境
